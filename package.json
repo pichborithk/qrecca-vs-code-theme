@@ -4,6 +4,7 @@
     "description": "qRecca Theme",
     "version": "1.0.0",
     "publisher": "qReccaTheme",
+    "icon": "qRecca.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/pichborithk/qrecca-vs-code-theme"
