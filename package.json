@@ -1,21 +1,36 @@
 {
-  "name": "qrecca-theme",
-  "displayName": "qRecca Theme",
-  "description": "qRecca Theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.83.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "qRecca Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/qRecca-color-theme.json"
-      }
-    ]
-  }
+    "name": "qrecca-theme",
+    "displayName": "qRecca Theme",
+    "description": "qRecca Theme",
+    "version": "1.0.0",
+    "publisher": "qReccaTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pichborithk/qrecca-vs-code-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "qrecca",
+        "qRecca",
+        "qrecca theme",
+        "qRecca theme",
+        "qReccaTheme",
+        "qRecca Theme"
+    ],
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "qRecca Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/qRecca-color-theme.json"
+            }
+        ]
+    }
 }
