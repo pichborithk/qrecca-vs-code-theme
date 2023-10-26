@@ -1,0 +1,21 @@
+{
+  "name": "qrecca-theme",
+  "displayName": "qRecca Theme",
+  "description": "qRecca Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "qRecca Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qRecca-color-theme.json"
+      }
+    ]
+  }
+}
