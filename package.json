@@ -28,9 +28,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "qRecca Theme",
+                "label": "Rem Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/qRecca-color-theme.json"
+                "path": "./themes/rem-theme.json"
+            },
+            {
+                "label": "Tatsumaki Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tatsumaki-theme.json"
             }
         ]
     }
