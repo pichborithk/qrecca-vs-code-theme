@@ -2,7 +2,7 @@
     "name": "qrecca-theme",
     "displayName": "qRecca Theme",
     "description": "qRecca Theme",
-    "version": "1.0.2",
+    "version": "1.2.0",
     "publisher": "qReccaTheme",
     "icon": "qRecca.png",
     "repository": {
@@ -28,9 +28,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "qRecca Theme",
+                "label": "Rem Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/qRecca-color-theme.json"
+                "path": "./themes/rem-theme.json"
+            },
+            {
+                "label": "Tatsumaki Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tatsumaki-theme.json"
             }
         ]
     }
